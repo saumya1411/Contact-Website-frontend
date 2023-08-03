@@ -2,8 +2,8 @@
 import React from 'react'
 import Style from './ContactForm.module.css'
 import Button from '../Button/Button'
-import {AiFillMessage} from "react-icons/Ai"
-import {FaPhoneAlt} from "react-icons/Fa"
+import {AiFillMessage} from "react-icons/ai"
+import {FaPhoneAlt} from "react-icons/fa"
 import {useState} from "react"
 
 const ContactForm = () => {
